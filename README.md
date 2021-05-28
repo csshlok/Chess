@@ -2,7 +2,7 @@
 GUI based Chess game 
 
 Hello!!
-This is shlok again... I thought that after uploaoding a simple game, I upload a complex GUI based game so that you guys understand what it means to actually commint yourselves to a project and finish it.
+This is shlok again... I thought that after uploading a simple game, I upload a complex GUI based game so that you guys understand what it means to actually commint yourselves to a project and finish it.
 
 Guys, but don't get scared from the lines and lenght of the code. It's currently way out of your knowledge rn.
 
